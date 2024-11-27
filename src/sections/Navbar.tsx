@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { logoImage } from "../assets/index.js";
+import { logoImage } from "../assets/index";
 import Button from "../components/Button";
 
 const navLinks = [
