@@ -9,6 +9,10 @@ import outsideLogo from "./images/outside.svg";
 import apexLogo from "./images/apex.svg";
 import celestialLogo from "./images/celestial.svg";
 import twiceLogo from "./images/twice.svg";
+import avatar1 from "./images/avatar-ashwin-santiago.jpg";
+import avatar2 from "./images/avatar-lula-meyers.jpg";
+import avatar3 from "./images/avatar-florence-shaw.jpg";
+// import avatar4 from "./images/avatar-owen-garcia.jpg";
 
 export {
     logoImage,
@@ -21,5 +25,9 @@ export {
     outsideLogo,
     apexLogo,
     celestialLogo,
-    twiceLogo
+    twiceLogo,
+    avatar1,
+    avatar2,
+    avatar3,
+    // avatar4
 };

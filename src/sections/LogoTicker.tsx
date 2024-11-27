@@ -33,9 +33,9 @@ export default function LogoTicker() {
                             <Image 
                                 src={logo.image} 
                                 alt={logo.name} 
-                                key={logo.name} 
-                                width={100}
-                                height={50}
+                                key={logo.name}
+                                width="200"
+                                height="100"
                             />
                         ))}
                     </div>
