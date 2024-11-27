@@ -15,7 +15,7 @@ export {
     Introduction,
     Features,
     Integrations,
-    CallToAction,
     Faqs,
+    CallToAction,
     Footer
 }
