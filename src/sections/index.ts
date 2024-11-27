@@ -5,6 +5,8 @@ import Introduction from "./Introduction";
 import Features from "./Features";
 import Integrations from "./Integrations";
 import CallToAction from "./CallToAction";
+import Faqs from "./Faqs";
+import Footer from "./Footer";
 
 export {
     Navbar,
@@ -13,5 +15,7 @@ export {
     Introduction,
     Features,
     Integrations,
-    CallToAction
+    CallToAction,
+    Faqs,
+    Footer
 }
