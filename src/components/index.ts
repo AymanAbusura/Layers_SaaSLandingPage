@@ -4,6 +4,7 @@ import Tag from "./Tag";
 import FeatureCard from "./FeatureCard";
 import Avatar from "./Avatar";
 import Key from "./Key";
+import IntegrationsColumn from "./IntegrationsColumn";
 
 export {
     Button,
@@ -11,5 +12,6 @@ export {
     Tag,
     FeatureCard,
     Avatar,
-    Key
+    Key,
+    IntegrationsColumn
 };

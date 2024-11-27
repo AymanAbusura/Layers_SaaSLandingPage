@@ -12,7 +12,12 @@ import twiceLogo from "./images/twice.svg";
 import avatar1 from "./images/avatar-ashwin-santiago.jpg";
 import avatar2 from "./images/avatar-lula-meyers.jpg";
 import avatar3 from "./images/avatar-florence-shaw.jpg";
-// import avatar4 from "./images/avatar-owen-garcia.jpg";
+import figmaIcon from "./images/figma-logo.svg";
+import notionIcon from "./images/notion-logo.svg";
+import slackIcon from "./images/slack-logo.svg";
+import relumeIcon from "./images/relume-logo.svg";
+import framerIcon from "./images/framer-logo.svg";
+import githubIcon from "./images/github-logo.svg";
 
 export {
     logoImage,
@@ -29,5 +34,10 @@ export {
     avatar1,
     avatar2,
     avatar3,
-    // avatar4
+    figmaIcon,
+    notionIcon,
+    slackIcon,
+    relumeIcon,
+    framerIcon,
+    githubIcon
 };
