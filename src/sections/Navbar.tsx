@@ -114,7 +114,7 @@ export default function Navbar() {
                 </div>
             </section>
 
-            <div className="pd-[86px] md:pd-[98px] lg:pd-[130px]"></div>
+            <div className="pb-[86px] md:pb-[98px] lg:pb-[130px]"></div>
         </>
     );
 }
