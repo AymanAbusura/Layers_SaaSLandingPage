@@ -18,6 +18,7 @@ import slackIcon from "./images/slack-logo.svg";
 import relumeIcon from "./images/relume-logo.svg";
 import framerIcon from "./images/framer-logo.svg";
 import githubIcon from "./images/github-logo.svg";
+import cursorYouImage from "./images/cursor-you.svg";
 
 export {
     logoImage,
@@ -39,5 +40,6 @@ export {
     slackIcon,
     relumeIcon,
     framerIcon,
-    githubIcon
+    githubIcon,
+    cursorYouImage
 };
